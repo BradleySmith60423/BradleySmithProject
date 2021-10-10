@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+body, p, h1, h3 {
+	background-color: black;
+	color: white;
+}
+
+a:link {
+	color: white;
+}
+ 
+a:visited{
+	color: darkgrey;
+}
+
+a:hover {
+	color: red;
+}
